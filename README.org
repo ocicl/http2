@@ -1,0 +1,10 @@
+* http2
+
+HTTP/2 implementation in Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/zellerin/http2.git   |
+| commit  | e25d0f9  |
+| systems | http2 |
+|---------+-------------------------------------------|
+
