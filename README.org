@@ -4,6 +4,6 @@ HTTP/2 implementation in Common Lisp
 
 |---------+-------------------------------------------|
 | source  | git:https://github.com/zellerin/http2.git |
-| commit  | 57f73b8                                   |
+| commit  | e07a7e0                                   |
 | systems | http2                                     |
 |---------+-------------------------------------------|
